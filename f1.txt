@@ -1,2 +1,2 @@
 master
-branch3 v1
+branch3 v2
